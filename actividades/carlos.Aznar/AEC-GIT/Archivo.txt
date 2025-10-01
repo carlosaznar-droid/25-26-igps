@@ -3,5 +3,9 @@ Paso 1: Fork del repositorio
  Para este paso he ingresado a github y he hecho fork al repertorio de Miguel para poder manejarlo y realizar la actividad  
 Paso 2: Clonado del repositorio
  He tenido que clonar este repertorio para que me permitiera hacer cambios desde git Bash 
+Paso 3 : Carpetas y documentos 
+ He creado la carpetas y documentos a traves de bash con comandos que explicare en el documento ya que en txt. no me deja           introducir imagenes
+Paso 4 : Realizar el git push Origin
+ Como he escrito he avtivado el comando de push origin para actualizar la pagina y que se puedan ver las modificaciones que he      hecho con la teminal bash 
 
 
