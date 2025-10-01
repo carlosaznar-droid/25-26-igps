@@ -1,5 +1,7 @@
 Este es archivo inicial
 Paso 1: Fork del repositorio
-Paso 1: Fork del repositorio
+ Para este paso he ingresado a github y he hecho fork al repertorio de Miguel para poder manejarlo y realizar la actividad  
 Paso 2: Clonado del repositorio
-Paso 1: Fork del repositorio
+ He tenido que clonar este repertorio para que me permitiera hacer cambios desde git Bash 
+
+
